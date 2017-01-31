@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alpha Coaching  Classes</string>
+    <string name="time_title">Alpha Coaching Class Timings</string>
+    <string name="time1">slot1 =========> 12:00 pm to 13:00 pm</string>
+    <string name="time2">slot2 =========> 13:00 pm to 14:00 pm</string>
+    <string name="time3">slot3 =========> 14:00 pm to 15:00 pm</string>
+
+</resources>

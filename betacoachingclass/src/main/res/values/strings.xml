@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Beta Coaching  Classes</string>
+    <string name="time_title">Beta Coaching Class Timings</string>
+    <string name="time1">slot1 =========> 09:00 am to 10:00 am</string>
+    <string name="time2">slot2 =========> 10:00 am to 11:00 am</string>
+    <string name="time3">slot3 =========> 11:00 am to 12:00 pm</string>
+</resources>
